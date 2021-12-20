@@ -1,2 +1,2 @@
-# Algo
-algorithm problems
+# Algorithm challeges
+This repo contais........
